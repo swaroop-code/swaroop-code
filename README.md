@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Achievements
 
-<a href="https://www.flaticon.com/free-icons/achievement" title="achievement icons">Achievement icons created by Freepik - Flaticon</a> 
-Beat The Codes, NIIT, 2019
+<a href="https://www.flaticon.com/free-icons/achievement" target="_blank" title="NIIT">Beat The Codes, NIIT, 2019![achievement](https://user-images.githubusercontent.com/85160238/165889087-0b70294d-5c36-41d2-963c-b31f92299c22.png)</a> 
+
 ### Contact & Social Media
 <a href="https://www.facebook.com/swaroop.code/" target="_blank">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send?phone=917007759170" target="_blank">![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
