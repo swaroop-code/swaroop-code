@@ -1,7 +1,7 @@
-                                                       👋 Hi, I’m Swaroop Singh
-                                          👀 I’m interested in grasping the best part of the technology
-                                                 🌱 I’m currently learning python and flutter
-                                          💞️ I'm trying to make impossible codes to be in few lines
+👋 Hi, I’m Swaroop Singh
+👀 I’m interested in grasping the best part of the technology
+🌱 I’m currently learning python and flutter
+💞️ I'm trying to make impossible codes to be in few lines
 <!---
 swaroop-code/swaroop-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -9,8 +9,7 @@ You can click the Preview link to take a look at your changes.
                                                  
 
 <img align="center" alt="Coding" width="1000" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-
-                                                           REACH ME AT
+#REACH ME AT
                                                            
 <a href="https://www.facebook.com/swaroop.code/" target="_blank">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send?phone=917007759170" target="_blank">![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
@@ -20,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/swaroop_code" target="_blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
                                                
-                                               Language, Frameworks, IDEs & Opreating Systems
+#Language, Frameworks, IDEs & Opreating Systems
                                                
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
